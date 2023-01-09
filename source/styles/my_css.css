@@ -1,0 +1,13 @@
+.nav-link {
+    color: aquamarine;
+}
+.navbar-nav .nav-link.active { color: rgba(93, 102, 109, 0.575);
+
+}
+
+.navbar-brand img {
+    width: 40px;
+}
+.navbar-toggler {
+    background-color: rgb(150, 145, 145);
+}
